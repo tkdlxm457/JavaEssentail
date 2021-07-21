@@ -3,6 +3,7 @@ import java.util.*;
 class sortselection {
 
 	public static void main(String[] args) {
+		
 		int mini = 0;
 		int index = 0;
 		int tmp = 0;
