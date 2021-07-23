@@ -18,13 +18,13 @@ abstract class Calculator{
 }
 
 class Adder extends Calculator{
-		protected int calc() {
+		public int calc() {
 				return a + b;
 		}
 }
 
 class Subtracter extends Calculator{
-	protected int calc() {
+	public int calc() {
 			return a - b;
 	}
 }
